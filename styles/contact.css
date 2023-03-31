@@ -1,0 +1,43 @@
+.contact{
+    background-image: linear-gradient(rgba(5,5,5,0.3), rgba(5,5,5,0.3)), url("../images/photocontact2.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    border-radius: 5px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  }
+  .corpscontact{ font-family: 'Lora', serif;
+    background-color: rgb(170, 170, 171);}
+
+   
+
+.corpscontact {
+    background-color: rgb(246, 246, 246);
+    width: 75%;
+    padding: 24px;
+    margin: 24px auto;
+    text-align: center;
+    box-shadow: 1px 2px 5px 6px black;
+}  
+
+.detailscontact{
+  list-style: none;
+}
+.detailscontact a:hover{color: rgb(0, 0, 0);
+  opacity: 1;}
+  
+.homeb{
+  list-style: none;
+}
+.homeb a:hover{
+  color: rgb(0, 0, 0);
+  opacity: 1; 
+}

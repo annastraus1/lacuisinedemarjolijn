@@ -1,0 +1,20 @@
+@import "banner.css";
+@import"buttons.css";
+@import"cards.css";
+@import"footer.css";
+@import"bouton-comm.css";
+@import"contact.css";
+@import"tarifs.css";
+@import"equipe.css";
+@import"galerie.css";
+
+body{
+    margin: 0;
+}
+.container {
+    width: 75%;
+    margin: 48px auto;
+}
+a{
+    text-decoration: none;
+}

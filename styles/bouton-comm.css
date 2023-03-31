@@ -1,0 +1,25 @@
+.bouton-commander{
+    color: #4A4A4A;
+    border: 0px solid #4A4A4A;
+    padding: 8px 8px;
+    border-radius: 4px;
+    font-weight: lighter;
+    opacity: 0.6;
+    transition: opacity 0.3s ease; 
+    margin-bottom: 16px;
+    
+}
+.bouton-commander{
+    opacity: 1;
+}
+.bouton-commander:hover{
+    color: black;
+    background-color: #b37305;
+    transition: 1s;
+}
+.bouton-commander{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items:first baseline;
+}
