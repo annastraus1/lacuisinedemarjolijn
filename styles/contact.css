@@ -14,6 +14,13 @@
     border-radius: 5px;
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
   }
+  .liste-rs{
+    font-family: 'Lora', serif;
+    background-color: gb(246, 246, 246);
+    font-size: 16px;
+  
+  }
+
   .corpscontact{ font-family: 'Lora', serif;
     background-color: rgb(170, 170, 171);}
 

@@ -14,7 +14,7 @@
   
 .btn-blue:hover {
     color: black;
-    background-color:none;
+    background-color:rgb(180, 96, 7);
     transition: 1s;
 
 }
