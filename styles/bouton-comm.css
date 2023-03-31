@@ -1,12 +1,13 @@
 .bouton-commander{
     color: #4A4A4A;
     border: 0px solid #4A4A4A;
-    padding: 8px 8px;
+    padding: 24px 24px;
     border-radius: 4px;
     font-weight: lighter;
     opacity: 0.6;
     transition: opacity 0.3s ease; 
-    margin-bottom: 16px;
+    margin-bottom: 4px;
+    
     
 }
 .bouton-commander{

@@ -6,6 +6,8 @@
     font-weight: lighter;
     opacity: 0.6;
     transition: opacity 0.3s ease;
+    overflow-x: scroll;
+    margin: 0 16px;
   }
   
   .btn-blue  {
@@ -18,4 +20,5 @@
     transition: 1s;
 
 }
+
 
